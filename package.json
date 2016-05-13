@@ -4,8 +4,8 @@
   "description": "SmoothShorts service provider for goo.gl urls",
   "main": "googl.js",
   "scripts": {
-    "dev": "grunt dev:symlinks",
-    "grunt-publish": "grunt publish:symlinks",
+    "dev": "grunt dev",
+    "grunt-publish": "grunt publish",
     "npm-install": "grunt npm"
   },
   "repository": {
