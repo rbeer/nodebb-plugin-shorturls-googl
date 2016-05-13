@@ -1,0 +1,7 @@
+{
+  "id": "nodebb-plugin-shorturls-googl",
+  "name": "SmoothShorts service provider for goo.gl urls.",
+  "description": "",
+  "url": "https://github.com/rbeer/nodebb-plugin-shorturls-googl#readme",
+  "library": "./googl.js"
+}

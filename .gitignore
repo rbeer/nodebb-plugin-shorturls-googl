@@ -1,0 +1,8 @@
+node_modules/
+snaps/
+builds/
+THUMBS.db
+.eslintcache
+*.log
+*.sublime-*
+*.xcf
